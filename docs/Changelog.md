@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file. This project uses [semantic versioning](https://semver.org/).
 
+# 7.5.2 (2023-10-12)
+  * Updated MyQ auth token format.
+
 # 7.5.1 (2023-09-17)
   * Housekeeping.
 
