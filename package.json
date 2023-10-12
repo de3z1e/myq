@@ -1,21 +1,21 @@
 {
-  "name": "@hjdhjd/myq",
+  "name": "@de3z1e/myq",
   "type": "module",
-  "version": "7.5.1",
+  "version": "7.5.2",
   "displayName": "myQ API",
   "description": "A nearly complete and modern implementation of the Liftmaster / Chamberlain myQ API.",
   "author": {
-    "name": "HJD",
-    "url": "https://github.com/hjdhjd"
+    "name": "DZ",
+    "url": "https://github.com/de3z1e"
   },
   "homepage": "https://github.com/hjdhjd/myq#readme",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hjdhjd/myq.git"
+    "url": "git://github.com/de3z1e/myq.git"
   },
   "bugs": {
-    "url": "https://github.com/hjdhjd/myq/issues"
+    "url": "https://github.com/de3z1e/myq/issues"
   },
   "keywords": [
     "chamberlain",
